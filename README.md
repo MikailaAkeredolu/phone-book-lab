@@ -1,17 +1,17 @@
 
-Phone Book
+# Phone Book
 
-Objective - To implement a PhoneBook class which maps a name to many phoneNumber
+### Objective - To implement a PhoneBook class which maps a name to many phoneNumber
 
-Purpose - To establish familiarity with List and Maps in a project
+### Purpose - To establish familiarity with List and Maps in a project
 
-- Building a basic PhoneBook class
+### Building a basic PhoneBook class
 
-- Create a PhoneBook class that holds names and phone numbers.
+### Create a PhoneBook class that holds names and phone numbers.
 
-You can use an associative data type (one which stores items as keys paired with values).
+***You can use an associative data type (one which stores items as keys paired with values)***
 
-Your PhoneBook class should have the following method
+### Your PhoneBook class should have the following method
 
 - void add(String name, String phoneNumber)
   adds an entry to the composite associate data type
