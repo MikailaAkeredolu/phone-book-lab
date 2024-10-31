@@ -29,3 +29,9 @@
 
 - String getAllContactNames()
   - returns a list of all names in this PhoneBook
+
+
+### Write test cases for the following:
+- AddALL()
+- Remove()
+- ReverseLookUp()
